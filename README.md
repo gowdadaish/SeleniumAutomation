@@ -1,2 +1,3 @@
 # SeleniumAutomation
-Automation of SalesForceApplication usinf selenium
+Automation of SalesForceApplication using selenium
+Author - Aishwarya 
