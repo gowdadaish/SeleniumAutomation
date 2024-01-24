@@ -1,4 +1,4 @@
 # SeleniumAutomation
 Automation of SalesForceApplication using selenium
 <br>
-Author - Aishwarya 
+Author - Aishwarya Dinesh Gandhi
